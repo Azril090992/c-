@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "toukk1_cl2/1.0.0": {
+        "runtime": {
+          "toukk1_cl2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "toukk1_cl2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

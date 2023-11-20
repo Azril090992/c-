@@ -1,0 +1,15 @@
+C:\Azril\C#\toukk1_cl2\bin\Debug\net7.0\toukk1_cl2.exe
+C:\Azril\C#\toukk1_cl2\bin\Debug\net7.0\toukk1_cl2.deps.json
+C:\Azril\C#\toukk1_cl2\bin\Debug\net7.0\toukk1_cl2.runtimeconfig.json
+C:\Azril\C#\toukk1_cl2\bin\Debug\net7.0\toukk1_cl2.dll
+C:\Azril\C#\toukk1_cl2\bin\Debug\net7.0\toukk1_cl2.pdb
+C:\Azril\C#\toukk1_cl2\obj\Debug\net7.0\toukk1_cl2.csproj.AssemblyReference.cache
+C:\Azril\C#\toukk1_cl2\obj\Debug\net7.0\toukk1_cl2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Azril\C#\toukk1_cl2\obj\Debug\net7.0\toukk1_cl2.AssemblyInfoInputs.cache
+C:\Azril\C#\toukk1_cl2\obj\Debug\net7.0\toukk1_cl2.AssemblyInfo.cs
+C:\Azril\C#\toukk1_cl2\obj\Debug\net7.0\toukk1_cl2.csproj.CoreCompileInputs.cache
+C:\Azril\C#\toukk1_cl2\obj\Debug\net7.0\toukk1_cl2.dll
+C:\Azril\C#\toukk1_cl2\obj\Debug\net7.0\refint\toukk1_cl2.dll
+C:\Azril\C#\toukk1_cl2\obj\Debug\net7.0\toukk1_cl2.pdb
+C:\Azril\C#\toukk1_cl2\obj\Debug\net7.0\toukk1_cl2.genruntimeconfig.cache
+C:\Azril\C#\toukk1_cl2\obj\Debug\net7.0\ref\toukk1_cl2.dll
